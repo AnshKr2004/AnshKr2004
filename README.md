@@ -1,6 +1,6 @@
 ## Hi, I'm Ansh 👨‍💻  
 
-💻 Software developer <br/>  
+💻 Software developer  
 🎓 Artificial Intelligence & Data Science student <br/>  
 🖥 Passionate about software development and problem-solving <br/>  
 📚 Exploring AI engineering and software development <br/>  
